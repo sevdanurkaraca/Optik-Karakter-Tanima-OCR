@@ -4,4 +4,6 @@ gerçekleştirilmiştir.
 
 Optik karakter tanımlama temelde resim olarak alınan verilerin ASCII koda dönüştürülerek metin formatında
 kullanıcıya iletilmesidir. 
-#Kod yazılırken OpenCv kütüphanesinden Python programlama dili için kullanılan Pytesseract OCR motoru kullanılmıştır. Yeniden bir OCR motoru yazılmamıştır.
+
+
+Kod yazılırken OpenCv kütüphanesinden Python programlama dili için kullanılan Pytesseract OCR motoru kullanılmıştır. Yeniden bir OCR motoru yazılmamıştır.
